@@ -6,4 +6,6 @@ menu.onclick = function myFunction() {
     } else{
         x.className = "topnav";
     }
+
+    console.log('test')
 }
